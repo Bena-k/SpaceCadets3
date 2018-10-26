@@ -1,0 +1,24 @@
+clear X; //Clear x
+incr X; //increment x
+incr X; //increment x
+incr X; //increment x
+while X not 0 do; //while x isn't 0 do:
+   decr X; //decrement x
+end; //end the while
+clear p;
+incr p;
+incr p;
+incr p;
+clear q;
+incr q;
+incr q;
+q * p;
+clear r;
+incr r;
+incr r;
+incr r;
+incr r;
+r - p;
+clear s;
+incr s;
+s + p;
